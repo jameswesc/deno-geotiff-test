@@ -1,0 +1,11 @@
+{
+  "imports": {
+    "@gfx/canvas": "jsr:@gfx/canvas@^0.5.7",
+    "@ry/jupyter-helper": "jsr:@ry/jupyter-helper@^0.2.0",
+    "@std/collections": "jsr:@std/collections@^1.0.7",
+    "@types/d3": "npm:@types/d3@^7.4.3",
+    "d3-array": "npm:d3-array@^3.2.4",
+    "d3-scale": "npm:d3-scale@^4.0.2",
+    "geotiff": "npm:geotiff@^2.1.3"
+  }
+}
